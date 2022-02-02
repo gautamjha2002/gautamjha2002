@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gautam Jha
-- 👀 I’m interested in Devops and Android Development
+- 👀 I’m interested in Devops.
 - 🌱 I’m currently learning Devops 
 - 💞️ I’m looking to collaborate on Devops Projects
 
